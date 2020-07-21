@@ -1,0 +1,20 @@
+{
+  "name": "amazing-co",
+  "version": "1.0.0",
+  "description": "Apply promotions to events",
+  "main": "index.js",
+  "repository": "https://github.com/AlphaJulie/amazing-co.git",
+  "author": "Alpha <30693288+AlphaJulie@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "fs": "^0.0.1-security",
+    "mocha": "^8.0.1",
+    "neat-csv": "^5.2.0",
+    "pg": "^8.3.0",
+    "sequelize": "^6.3.3"
+  }
+}
