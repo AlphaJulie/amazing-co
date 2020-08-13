@@ -1,4 +1,4 @@
-# Amazing-co Test
+# Task
 
 Events that are currently offering are stored inside `events.csv` file. Event-Checkout application returns the discounted cost after applying the promotion rules.
 
